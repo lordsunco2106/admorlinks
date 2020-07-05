@@ -1,0 +1,69 @@
+/*====== WIDTH ======*/
+.fullWidth {
+    width: 100%;
+}
+/*====== HEIGHT ======*/
+.fullHeight {
+    height: 100%;
+}
+/*====== WIDTH ======*/
+.fullWidthed {
+    min-width: 100%;
+}
+/*====== HEIGHT ======*/
+.fullHeighted {
+    height: 55vh;
+}
+
+/*====== IMAGE ======*/
+.imgCover {
+    object-fit: cover;
+}
+/*====== OVERFLOW ======*/
+.overflowH {
+    overflow: hidden;
+}
+/*====== TRANSITIONS ======*/
+.transition1l {
+    transition: left 1s ease-in-out;
+}
+/*====== POSITION ======*/
+.abs {
+    position: absolute;
+}
+.rel {
+    position: relative;
+}
+.left0 {
+    left: 0px;
+}
+.left100vw {
+    left: 100vw;
+}
+.leftM100vw {
+    left: -100vw;
+}
+
+/*====== FLEX ======*/
+.df {
+    display: flex;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+}
+.fCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex1 {
+    flex: 1;
+}
+.flex8 {
+    flex: 8;
+}

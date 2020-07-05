@@ -1,0 +1,27 @@
+.imgCover{
+    object-fit: cover;
+}
+.fullW{
+    width: 100%;
+}
+.fullH{
+    height: 100%;
+}
+.pos{
+    position: absolute;
+}
+.rel{
+position: relative;
+}
+.overflowH{
+    overflow: hidden;
+}
+.odd{
+    display: flex;
+    align-items: center;
+}
+.slide{
+    min-width: 100%;
+    height: 55vh;  
+}
+
